@@ -1,0 +1,7 @@
+python-binance
+pandas
+numpy
+sklearn
+keras
+tensorflow-gpu
+matplotlib
